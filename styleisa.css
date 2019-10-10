@@ -1,7 +1,11 @@
 body {
-    background-color: black; 
+    background-image: url("/Users/isabe/Desktop/MyProject/astronauta.jpg"); 
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    image : center;
 }
-
+ 
 h1 {
     color: gray;
     font-family: lato;
@@ -26,3 +30,4 @@ header, footer {
     padding: 1em;
     clear: left;
     text-align: center;
+}
