@@ -1,0 +1,28 @@
+body {
+    background-color: black; 
+}
+
+h1 {
+    color: gray;
+    font-family: lato;
+    border-style: solid;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+h2, h3, p {
+    color: white;
+    font-family: lato;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.risco {
+    text-decoration: line-through;
+}
+
+header, footer {
+    padding: 1em;
+    clear: left;
+    text-align: center;

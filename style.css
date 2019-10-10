@@ -1,0 +1,21 @@
+body {
+ backgound-color: #DFF0D8;
+}
+
+h1 {
+ color: #634688;
+ font-family: Impact, "Times New Roman";
+ font-style: italic;
+ text-decoration: underline;
+ border-style: solid;
+}
+
+p {
+ background-color: #226F52;
+ color: #DFF0D8;
+ text-align: center;
+ padding: 10px 10px 10px 10px;
+ margin: 50px 50px 50px 50px;
+ font-weight: bold;
+ font-size: 8.0em;
+}
